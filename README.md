@@ -25,7 +25,7 @@ Form 13F Information Table Value Total:	$ 2,694,264
                                         ---------------------------
                                                         (thousands)
 + ===> May be manually add up the VALUE column then create a new Total Value Column ?
-### + Extract CITY, ZIP, STATE variable:
+### + Extract CITY, ZIP, STATE variable: not as urgently needed right now as extracting the filing date and table content
 + Under the Business Address field near the beginning of the file
 + Example how it looks in the text file: 
 
